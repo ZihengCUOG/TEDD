@@ -27,7 +27,8 @@ Content:
 		Pls ENSURE the input datasets locate in the same direction/path of this program or to provide the absolute direction/path of datasets for your analysis
 
 #Workflow:
-                1. Bulk sample expression analysis: Integration of bulk expression matrices and data plot in the models of 'Single-gene Enquiry' and 'Multi-gene Enquiry' under the domain of 'Bulk Expression'.
+                
+		1. Bulk sample expression analysis: Integration of bulk expression matrices and data plot in the models of 'Single-gene Enquiry' and 'Multi-gene Enquiry' under the domain of 'Bulk Expression'.
                 Rscript Bulk.R
                 #input files include expression matrices and metadata files which were downloaded from ENCODE (https://www.encodeproject.org/rnaget-report/?type=RNAExpression), and the annotated genomes in gff3 format.
                 
